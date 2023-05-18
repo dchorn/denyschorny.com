@@ -26,9 +26,6 @@ export default function PresentationCard() {
                 <Text>📚 Learning is a form of life.</Text>
 
                 <Flex marginTop={"5px"}>
-                    <TechIcon id={"csharp"} />
-                    <TechIcon id={"electron"} />
-                    <TechIcon id={"graphql"} />
                     <TechIcon id={"html"} />
                     <TechIcon id={"java"} />
                     <TechIcon id={"javascript"} />
@@ -39,10 +36,7 @@ export default function PresentationCard() {
                     <TechIcon id={"nodejs"} />
                     <TechIcon id={"python"} />
                     <TechIcon id={"react"} />
-                    <TechIcon id={"redis"} />
-                    <TechIcon id={"relay"} />
                     <TechIcon id={"typescript"} />
-                    <TechIcon id={"unity"} />
                 </Flex>
             </Box>
 
