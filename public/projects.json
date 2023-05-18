@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "id": "php",
+      "label": "PHP"
+    },
+    {
+      "id": "python",
+      "label": "Python"
+    },
+
+    {
+      "id": "javascript",
+      "label": "JavaScript"
+    },
+    {
+      "id": "libraries",
+      "label": "Libraries"
+    },
+    {
+      "id": "rust",
+      "label": "Rust"
+    },
+    {
+      "id": "godot",
+      "label": "Godot"
+    },
+    {
+      "id": "discord",
+      "label": "Discord"
+    }
+  ],
+  "projects": [
+    {
+      "name": "BioMinds",
+      "description": "Educative website to learn biology concepts for every age with little games made in Godot.",
+      "categories": ["javascript", "godot"],
+      "thumbnail": "/thumbnails/bio-minds.jpg",
+      "link": "https://github.com/dchorn/BioMinds"
+    },
+    {
+      "name": "Discord Bot",
+      "description": "A little bot to generate random animal images for your Discord server.",
+      "categories": ["discord", "python"],
+      "thumbnail": "/thumbnails/discord-bot.jpg",
+      "link": "https://github.com/dchorn/kasu-bot"
+    },
+    {
+      "name": "Game Library",
+      "description": "Little game library to list diferent games and their respective prices.",
+      "categories": ["javascript"],
+      "thumbnail": "/thumbnails/game-library.jpg",
+      "link": "https://github.com/dchorn/game-library"
+    }
+  ]
+}
