@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "id": "frontend",
+      "label": "Frontend"
+    },
+    {
       "id": "php",
       "label": "PHP"
     },
@@ -33,7 +37,7 @@
   "projects": [
     {
       "name": "BioMinds",
-      "description": "Educative website to learn biology concepts for every age with little games made in Godot.",
+      "description": "Educative website to learn biology concepts for every age with little games in Godot.",
       "categories": ["javascript", "godot"],
       "thumbnail": "/thumbnails/bio-minds.jpg",
       "link": "https://github.com/dchorn/BioMinds"
@@ -51,6 +55,20 @@
       "categories": ["javascript"],
       "thumbnail": "/thumbnails/game-library.jpg",
       "link": "https://github.com/dchorn/game-library"
+    },
+    {
+      "name": "Frontend Store",
+      "description": "A frontend t-shirt store with few pages to practice my css and html skills.",
+      "categories": ["frontend"],
+      "thumbnail": "/thumbnails/frontend-store.jpg",
+      "link": "https://denys-frontendstore.netlify.app"
+    },
+    {
+      "name": "Frontend Page",
+      "description": "A one page site to practice frontend.",
+      "categories": ["frontend"],
+      "thumbnail": "/thumbnails/frontend-page.jpg",
+      "link": "https://deny-freelancer.netlify.app"
     }
   ]
 }
