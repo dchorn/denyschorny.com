@@ -31,7 +31,7 @@ export default function PresentationCard() {
                     <TechIcon id={"javascript"} />
                     <TechIcon id={"mongodb"} />
                     <TechIcon id={"mysql"} />
-                    <TechIcon id={"nextjs"} />
+                    {/* <TechIcon id={"nextjs"} /> */}
                     <TechIcon id={"nginx"} />
                     <TechIcon id={"nodejs"} />
                     <TechIcon id={"python"} />
