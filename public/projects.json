@@ -74,7 +74,7 @@
       "name": "TODO REST API",
       "description": "RESTful API with PHP and MySQL featuring CRUD operations, prepared statements, and JSON responses.",
       "categories": ["php", "javascript"],
-      "thumbnail": "/thumbnails/todo-api.jpg",
+      "thumbnail": "/thumbnails/todo-rest-api.jpg",
       "link": "https://github.com/dchorn/todo-rest-api"
     }
   ]
