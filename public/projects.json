@@ -69,6 +69,13 @@
       "categories": ["frontend"],
       "thumbnail": "/thumbnails/frontend-page.jpg",
       "link": "https://deny-freelancer.netlify.app"
+    },
+    {
+      "name": "TODO REST API",
+      "description": "RESTful API with PHP and MySQL featuring CRUD operations, prepared statements, and JSON responses.",
+      "categories": ["php", "javascript"],
+      "thumbnail": "/thumbnails/todo-api.jpg",
+      "link": "https://github.com/dchorn/todo-rest-api"
     }
   ]
 }
